@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{881A1FCC-D9B5-4941-AFF0-AD0C5D7C4A47}|AppToDoList\\AppToDoList.csproj|c:\\users\\stipo4\\source\\repos\\apptodolist\\apptodolist\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{881A1FCC-D9B5-4941-AFF0-AD0C5D7C4A47}|AppToDoList\\AppToDoList.csproj|solutionrelative:apptodolist\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A1FCC-D9B5-4941-AFF0-AD0C5D7C4A47}|AppToDoList\\AppToDoList.csproj|c:\\users\\stipo4\\source\\repos\\apptodolist\\apptodolist\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881A1FCC-D9B5-4941-AFF0-AD0C5D7C4A47}|AppToDoList\\AppToDoList.csproj|solutionrelative:apptodolist\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A1FCC-D9B5-4941-AFF0-AD0C5D7C4A47}|AppToDoList\\AppToDoList.csproj|c:\\users\\stipo4\\source\\repos\\apptodolist\\apptodolist\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881A1FCC-D9B5-4941-AFF0-AD0C5D7C4A47}|AppToDoList\\AppToDoList.csproj|solutionrelative:apptodolist\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A1FCC-D9B5-4941-AFF0-AD0C5D7C4A47}|AppToDoList\\AppToDoList.csproj|c:\\users\\stipo4\\source\\repos\\apptodolist\\apptodolist\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881A1FCC-D9B5-4941-AFF0-AD0C5D7C4A47}|AppToDoList\\AppToDoList.csproj|solutionrelative:apptodolist\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A1FCC-D9B5-4941-AFF0-AD0C5D7C4A47}|AppToDoList\\AppToDoList.csproj|c:\\users\\stipo4\\source\\repos\\apptodolist\\apptodolist\\models\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881A1FCC-D9B5-4941-AFF0-AD0C5D7C4A47}|AppToDoList\\AppToDoList.csproj|solutionrelative:apptodolist\\models\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A1FCC-D9B5-4941-AFF0-AD0C5D7C4A47}|AppToDoList\\AppToDoList.csproj|c:\\users\\stipo4\\source\\repos\\apptodolist\\apptodolist\\resources\\raw\\user.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{881A1FCC-D9B5-4941-AFF0-AD0C5D7C4A47}|AppToDoList\\AppToDoList.csproj|solutionrelative:apptodolist\\resources\\raw\\user.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A1FCC-D9B5-4941-AFF0-AD0C5D7C4A47}|AppToDoList\\AppToDoList.csproj|c:\\users\\stipo4\\source\\repos\\apptodolist\\apptodolist\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881A1FCC-D9B5-4941-AFF0-AD0C5D7C4A47}|AppToDoList\\AppToDoList.csproj|solutionrelative:apptodolist\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "user.json",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\Resources\\Raw\\user.json",
+              "RelativeDocumentMoniker": "AppToDoList\\Resources\\Raw\\user.json",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\Resources\\Raw\\user.json",
+              "RelativeToolTip": "AppToDoList\\Resources\\Raw\\user.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-19T12:27:57.725Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppToDoList\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\MainPage.xaml",
+              "RelativeToolTip": "AppToDoList\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-19T14:24:06.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppToDoList\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppToDoList\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:24:04.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppToDoList\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\App.xaml.cs",
+              "RelativeToolTip": "AppToDoList\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T12:18:48.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\Models\\DataManager.cs",
+              "RelativeDocumentMoniker": "AppToDoList\\Models\\DataManager.cs",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\Models\\DataManager.cs",
+              "RelativeToolTip": "AppToDoList\\Models\\DataManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T08:24:53.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\Models\\ToDo.cs",
+              "RelativeDocumentMoniker": "AppToDoList\\Models\\ToDo.cs",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\Models\\ToDo.cs",
+              "RelativeToolTip": "AppToDoList\\Models\\ToDo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T08:24:14.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AppToDoList\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\Models\\User.cs",
+              "RelativeToolTip": "AppToDoList\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T08:23:34.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

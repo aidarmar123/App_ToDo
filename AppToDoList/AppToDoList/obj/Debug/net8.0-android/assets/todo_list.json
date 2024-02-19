@@ -1,0 +1,17 @@
+[{
+    "name":"ToDo for Wensday",
+    "userId":1,
+    "works":
+    [{
+        "title":"wash floor",
+        "description":"wash floor all house"
+    },
+    {
+        "title":"cooking dinner",
+        "description":"cooking dinner for 5 p.m"
+    },
+    {
+        "title":"Write code",
+        "description":"Write mobila app"
+    }]
+}]

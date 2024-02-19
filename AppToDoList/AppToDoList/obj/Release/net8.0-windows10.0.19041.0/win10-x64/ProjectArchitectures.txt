@@ -1,0 +1,1 @@
+C:\Users\Stipo4\source\repos\AppToDoList\AppToDoList\AppToDoList.csproj;x64
