@@ -7,9 +7,11 @@ using System.Threading.Tasks;
 namespace AppToDoList.Models
 {
 
+
     public class ToDo
     {
         public string name { get; set; }
+        public int categoryId { get; set; }
         public int userId { get; set; }
         public Work[] works { get; set; }
     }
@@ -18,6 +20,8 @@ namespace AppToDoList.Models
     {
         public string title { get; set; }
         public string description { get; set; }
+        public bool done { get; set; }
     }
+
 
 }

@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\AppToDoList.csproj": {}
+    "C:\\Users\\user\\Desktop\\Програмирование\\C#\\ToDo_App\\App_ToDo\\AppToDoList\\AppToDoList\\AppToDoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\AppToDoList.csproj": {
+    "C:\\Users\\user\\Desktop\\Програмирование\\C#\\ToDo_App\\App_ToDo\\AppToDoList\\AppToDoList\\AppToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\AppToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Програмирование\\C#\\ToDo_App\\App_ToDo\\AppToDoList\\AppToDoList\\AppToDoList.csproj",
         "projectName": "AppToDoList",
-        "projectPath": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\AppToDoList.csproj",
-        "packagesPath": "C:\\Users\\Stipo4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stipo4\\source\\repos\\AppToDoList\\AppToDoList\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Програмирование\\C#\\ToDo_App\\App_ToDo\\AppToDoList\\AppToDoList\\AppToDoList.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Програмирование\\C#\\ToDo_App\\App_ToDo\\AppToDoList\\AppToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Stipo4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -55,11 +55,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -81,7 +76,7 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.2, )",
+              "version": "[8.0.1, )",
               "autoReferenced": true
             },
             "Newtonsoft.Json": {
@@ -108,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-ios17.2": {
           "targetAlias": "net8.0-ios",
@@ -128,7 +123,7 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.2, )",
+              "version": "[8.0.1, )",
               "autoReferenced": true
             },
             "Newtonsoft.Json": {
@@ -155,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-maccatalyst17.2": {
           "targetAlias": "net8.0-maccatalyst",
@@ -175,7 +170,7 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.2, )",
+              "version": "[8.0.1, )",
               "autoReferenced": true
             },
             "Newtonsoft.Json": {
@@ -203,7 +198,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
@@ -250,7 +245,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -272,7 +267,25 @@
         "maccatalyst-x64": {
           "#import": []
         },
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
         "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
           "#import": []
         }
       }

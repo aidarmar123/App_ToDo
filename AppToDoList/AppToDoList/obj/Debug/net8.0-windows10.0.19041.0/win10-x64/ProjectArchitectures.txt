@@ -1,1 +1,1 @@
-C:\Users\Stipo4\source\repos\AppToDoList\AppToDoList\AppToDoList.csproj;x64
+C:\Users\user\Desktop\Програмирование\C#\ToDo_App\App_ToDo\AppToDoList\AppToDoList\AppToDoList.csproj;x64

@@ -20,6 +20,12 @@
     <None Update="MainPage.xaml">
       <SubType>Designer</SubType>
     </None>
+    <None Update="Pages\Login.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\ToDoListPage.xaml">
+      <SubType>Designer</SubType>
+    </None>
     <None Update="Platforms\Windows\App.xaml">
       <SubType>Designer</SubType>
     </None>

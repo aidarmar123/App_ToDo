@@ -1,4 +1,8 @@
-﻿namespace AppToDoList
+﻿
+using AppToDoList.Models;
+using AppToDoList.Pages;
+
+namespace AppToDoList
 {
     public partial class MainPage : ContentPage
     {
@@ -7,18 +11,25 @@
         public MainPage()
         {
             InitializeComponent();
+            Refresh();
+           
         }
 
-        private void OnCounterClicked(object sender, EventArgs e)
+        private void Refresh()
         {
-            count++;
+            var catgories = DataManager.Categories;
+            LVCategories.ItemsSource = catgories;
+        }
 
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
+        private void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
+        {
+            if(LVCategories.SelectedItem is Category category)
+            {
+                var todoList = DataManager.Todo;
+                var todoListFilter = todoList.Where(x => x.categoryId == category.Id && x.userId==DataManager.userNow.id).ToList();
 
-            SemanticScreenReader.Announce(CounterBtn.Text);
+                Navigation.PushModalAsync(new ToDoListPage(todoListFilter));
+            }
         }
     }
 

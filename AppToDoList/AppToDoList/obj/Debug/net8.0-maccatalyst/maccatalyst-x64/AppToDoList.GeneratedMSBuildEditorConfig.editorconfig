@@ -12,35 +12,47 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppToDoList
-build_property.ProjectDir = C:\Users\Stipo4\source\repos\AppToDoList\AppToDoList\
+build_property.ProjectDir = C:\Users\user\Desktop\Програмирование\C#\ToDo_App\App_ToDo\AppToDoList\AppToDoList\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/Stipo4/source/repos/AppToDoList/AppToDoList/App.xaml]
+[C:/Users/user/Desktop/Програмирование/C\#/ToDo_App/App_ToDo/AppToDoList/AppToDoList/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppToDoList.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Stipo4/source/repos/AppToDoList/AppToDoList/AppShell.xaml]
+[C:/Users/user/Desktop/Програмирование/C\#/ToDo_App/App_ToDo/AppToDoList/AppToDoList/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppToDoList.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Stipo4/source/repos/AppToDoList/AppToDoList/MainPage.xaml]
+[C:/Users/user/Desktop/Програмирование/C\#/ToDo_App/App_ToDo/AppToDoList/AppToDoList/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppToDoList.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Stipo4/source/repos/AppToDoList/AppToDoList/Resources/Styles/Colors.xaml]
+[C:/Users/user/Desktop/Програмирование/C\#/ToDo_App/App_ToDo/AppToDoList/AppToDoList/Pages/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppToDoList.Pages.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Login.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Login.xaml
+
+[C:/Users/user/Desktop/Програмирование/C\#/ToDo_App/App_ToDo/AppToDoList/AppToDoList/Pages/ToDoListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppToDoList.Pages.ToDoListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ToDoListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ToDoListPage.xaml
+
+[C:/Users/user/Desktop/Програмирование/C\#/ToDo_App/App_ToDo/AppToDoList/AppToDoList/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppToDoList.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Stipo4/source/repos/AppToDoList/AppToDoList/Resources/Styles/Styles.xaml]
+[C:/Users/user/Desktop/Програмирование/C\#/ToDo_App/App_ToDo/AppToDoList/AppToDoList/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppToDoList.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

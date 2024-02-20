@@ -57,8 +57,21 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <AndroidResource Remove="Resources\raw\category.json" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiAsset Remove="Resources\raw\category.json" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Remove="Resources\raw\category.json" />
 	  <None Remove="Resources\raw\todo_list.json" />
 	  <None Remove="Resources\raw\user.json" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Include="Resources\raw\category.json" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -66,6 +79,15 @@
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="8.0.7" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Update="Pages\Login.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </None>
+	  <None Update="Pages\ToDoListPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </None>
 	</ItemGroup>
 
 </Project>

@@ -1,0 +1,17 @@
+[{
+    "Id":1,
+    "name":"Home"
+},
+{
+    "Id":2,
+    "name":"Work"
+},
+{
+    "Id":3,
+    "name":"Study"
+},
+{
+    "Id":4,
+    "name":"Other"
+}
+]

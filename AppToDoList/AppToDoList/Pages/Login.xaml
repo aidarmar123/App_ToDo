@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppToDoList.Pages.Login" >
+    
+    <VerticalStackLayout Margin="20"
+                         VerticalOptions="Center">
+        <Label FontSize="32"
+               Text="Login"
+                HorizontalOptions="Center"/>
+        <Label Text="Login"/>
+        <Entry x:Name="ELogin"/>
+         <Label Text="Password"/>
+        <Entry x:Name="EPassword"/>
+        <Button x:Name="BLogin"
+                Clicked="BLogin_Clicked"
+                Text="Entry"/>
+    </VerticalStackLayout>
+</ContentPage>

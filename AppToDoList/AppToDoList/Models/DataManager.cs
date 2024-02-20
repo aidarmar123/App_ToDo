@@ -9,6 +9,36 @@ namespace AppToDoList.Models
 {
     public static class DataManager
     {
+        public static User userNow;
+
+
+
+
+
+
+        public static readonly string ImortPathCategory = "category.json";
+        public static string CachePathCategory { get => Path.Combine(FileSystem.Current.AppDataDirectory, "copyCategory.json"); }
+
+        private static List<Category> categories;
+
+        public static List<Category> Categories
+        {
+            get
+            {
+                if (categories == null)
+                    categories = GetData<List<Category>>(CachePathCategory);
+                return categories;
+            }
+
+            set
+            {
+
+                categories = value;
+                SetData(CachePathCategory, categories);
+            }
+        }
+
+
         public static readonly string ImortPathUser = "user.json";
         public static string CachePathUser { get => Path.Combine(FileSystem.Current.AppDataDirectory, "copyUser.json"); }
 
